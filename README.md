@@ -2,7 +2,7 @@
 
 ![](images/app_screenshot1.png?raw=true)
 
-This app will recommend a restaurant near a location specified by the user. Because it was designed for Cogent Labs, the default position will be at their office, but users can change it if necessary. It will suggest a random restaurant near the user's location, and if the user is not satisfied, the app will suggest another.
+This app will recommend a restaurant near a location specified by the user. It will suggest a random restaurant near the user's location, and if the user is not satisfied, the app will suggest another.
 
 This app was built in a few hours, it is purely frontend, and some parts that would have made it production ready were left out due to time constraints, which we will discuss in this document.
 
