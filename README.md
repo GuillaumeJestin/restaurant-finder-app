@@ -88,4 +88,4 @@ If we look at this page (https://developer.foursquare.com/docs/visual-crediting-
 
 ## Contacts
 
-You can find me on LinkedIn at this address (https://www.linkedin.com/in/guillaume-jestin-a94333160/) and my resume [here](https://www.docdroid.net/UGLy8Qt/guillaume-jestin-resume-pdf).
+You can find me on LinkedIn at this address (https://www.linkedin.com/in/guillaume-jestin-a94333160/).
